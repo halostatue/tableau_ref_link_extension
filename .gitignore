@@ -1,0 +1,13 @@
+.ez
+/.elixir_ls/
+/.fetch/
+/_build/
+/cover/
+/deps/
+/doc/
+/tmp/
+tableau_reflink_extension-*.tar
+erl_crash.dump
+/priv/plts/
+coveralls.json
+/test/fixtures/_site/
